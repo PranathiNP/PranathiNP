@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Pranathi N P 👋
 
-<!--
-**PranathiNP/PranathiNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Agentic AI | AI Engineering | Cybersecurity
 
-Here are some ideas to get you started:
+I'm a final-year Computer Science student focused on building intelligent,
+agent-based AI systems and practical cybersecurity solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+- 🤖 Multi-Agent AI Orchestration System
+- 👁️ Netrika — AI Face Detection & Recognition Attendance System
+- 🔐 Cybersecurity & SOC Projects
+
+## 🧠 Areas of Interest
+
+- Agentic AI & Multi-Agent Systems
+- LLM Orchestration
+- Artificial Intelligence
+- Computer Vision
+- Cybersecurity
+- SOC & SIEM
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C, C++, Java, JavaScript  
+**AI / ML:** YOLO, ArcFace, OpenCV  
+**Backend:** FastAPI, Flask  
+**Security:** Wazuh, Wireshark, Nmap  
+**Tools:** Git, GitHub, Linux, VS Code
+
+## 📌 Featured Project
+
+### Netrika — Automated Attendance System
+
+AI-powered face detection and recognition system designed for automated
+attendance using **YOLO + ArcFace**.
+
+**Key concepts:** Multi-face detection • Face recognition • Computer Vision • Automated Attendance
